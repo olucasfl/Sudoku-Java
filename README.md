@@ -47,7 +47,5 @@ Este projeto evidencia várias habilidades e conceitos importantes:
 ```bash
 git clone https://github.com/lucasfl22/SeuRepositorio.git
 ```
-2. **Entre na pasta e acesse o**
-3.  ```bash
-4. SudokuLF.exe
-5. ```
+2. **Entre na pasta e acesse o: **
+```SudokuLF.exe ```
