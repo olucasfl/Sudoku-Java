@@ -47,8 +47,7 @@ Este projeto evidencia várias habilidades e conceitos importantes:
 ```bash
 git clone https://github.com/lucasfl22/SeuRepositorio.git
 ```
-2. **Entre pelo terminal onde tiver o SudokuLF.exe:**
-   -Execute o seguinte código:
+2. **Entre pelo terminal onde tiver o SudokuLF.exe e Execute o seguinte código:**
 ```bash
 java -jar SudokuLF.exe
 ```
